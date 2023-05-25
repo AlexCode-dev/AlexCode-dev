@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @AlexCode-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello! I'm Alejo Boglione, a technology enthusiast and passionate software developer. 💻 I love exploring new challenges and finding creative solutions to complex problems. My focus is on building robust, scalable, and efficient applications using the latest tools and technologies such as HTML, CSS, JavaScript, Laravel, and Livewire. 🚀
 
-<!---
-AlexCode-dev/AlexCode-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My goal is to contribute to the world of open source and collaborate with other developers to drive technological progress. I'm always learning and eager to share knowledge with the community. 👥
+
+Let's connect and create amazing things together! 😄✨
+
+##https://www.linkedin.com/in/alejo-boglione/
