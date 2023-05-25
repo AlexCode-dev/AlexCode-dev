@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Cglm3JaOZFSOFYx1qY/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/Cglm3JaOZFSOFYx1qY/giphy.gif" width="300"/>
 </div>
 <div id="header" align="center">
   👋 Hello! I'm Alejo Boglione, a technology enthusiast and passionate software developer. 💻 I love exploring new challenges and finding creative solutions to complex problems. My focus is on building robust, scalable, and efficient applications using the latest tools and technologies such as HTML, CSS, JavaScript, Laravel, and Livewire. 🚀
