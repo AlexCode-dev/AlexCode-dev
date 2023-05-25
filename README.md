@@ -4,4 +4,4 @@ My goal is to contribute to the world of open source and collaborate with other 
 
 Let's connect and create amazing things together! 😄✨
 
- 💻 [LINKEDIN](https://www.linkedin.com/in/alejo-boglione/)
+ 💻 [Linkedin](https://www.linkedin.com/in/alejo-boglione/)  💻
